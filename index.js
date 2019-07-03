@@ -1,3 +1,3 @@
 function main() {
-    return "hellow"
+    return "hellow world"
 }
